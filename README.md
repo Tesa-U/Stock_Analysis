@@ -5,7 +5,7 @@ Steve, recent finance school graduate’s environmentally conscious parents see 
 After writing macros and refactoring it in VBA, Steve can analyze an entire dataset and visualize each company’s Total Daily Volume and Return by the year, at the click of a button.  
 ![plot](./Resources/inputbox.png) 
 
-Green Energy Stocks performance by year. 
+# Green Energy Stocks performance by year. 
 
 ![plot](./Resources/2017.png) 
 ![plot](./Resources/2018.png) 
