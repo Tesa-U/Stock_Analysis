@@ -13,6 +13,7 @@ After writing macros and refactoring it in VBA, Steve can analyze an entire data
 
 ![plot](./Resources/2017.png) 
 
+
 ![plot](./Resources/2018.png) 
 
 Based on the Return shown above DAQO New Energy Corp **(DQ)** lost 62% which is a big factor to reconsider their investment decision. 
