@@ -7,7 +7,9 @@ After writing macros and refactoring it in VBA, Steve can analyze an entire data
 
 ![plot](./Resources/inputbox.png) 
 
+
 ## Green Energy Stocks performance by year. 
+
 
 ![plot](./Resources/2017.png) 
 
