@@ -20,7 +20,6 @@ Based on the Return shown above DAQO New Energy Corp **(DQ)** lost 62% which is 
 Pros of refactoring, is it makes the code more efficient and run faster—by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read. However, it is a time-consuming process which is the biggest con for refactoring. 
 
 
-![plot](./Resources/Runtime.png) 
 
 
 
